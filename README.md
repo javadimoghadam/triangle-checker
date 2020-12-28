@@ -10,9 +10,9 @@ python Triangle Cheker.py
 ```
 
 # TODO:
-Python [X]
-Java   []
-C#     []
+- [x] Python
+- [ ] Java
+- [ ] C#
 
 # License
 > [MIT](https://opensource.org/licenses/MIT/)
