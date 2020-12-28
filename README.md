@@ -6,7 +6,7 @@ For Python Version
 ```bash
 git clone https://github.com/javadimoghadam/triangle-checker.git
 cd triangle-checker/
-python Triangle Cheker.py
+python 'Triangle Cheker.py'
 ```
 
 # TODO:
