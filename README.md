@@ -6,7 +6,7 @@ For Python Version
 ```bash
 git clone https://github.com/javadimoghadam/triangle-checker.git
 cd triangle-checker/
-python Triangle Cheker.py
+python 'Triangle Cheker.py'
 ```
 
 # TODO:
@@ -15,4 +15,4 @@ python Triangle Cheker.py
 - [ ] C#
 
 # License
-> [MIT](https://opensource.org/licenses/MIT/)
+[MIT](https://opensource.org/licenses/MIT/)
